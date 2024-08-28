@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 28 20:23:01 2024
-
-@author: jmari
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Tue Aug 25 21:35:02 2024
 
 @author: Jorge Castro Porta
