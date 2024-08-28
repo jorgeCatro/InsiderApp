@@ -53,9 +53,8 @@ python python InsiderApp.py
 
 # Execution
 git clone https://github.com/tu-usuario/insider-risk-evaluator.git
-cd insider-risk-evaluator
-pip install -r requirements.txt
-python app.py
+cd InsiderApp
+python App_insider.py
 
 
 
