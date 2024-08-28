@@ -45,4 +45,4 @@ To get started with this project, follow these steps:
 Once the setup is complete, you can run the application with the following command:
 
 ```bash
-python InsiderApp.py
+python python InsiderApp.py
