@@ -41,6 +41,7 @@ To get started with this project, follow these steps:
 
     - Ensure you have the pre-trained model weights in the models/ directory, or follow instructions to train your model.
 
+
 ## Usage
 
 
@@ -48,15 +49,14 @@ Once the setup is complete, you can run the application with the following comma
 
 ```bash
 python python InsiderApp.py
+```
 
-
-
-## Execution
-
+# Execution
 git clone https://github.com/tu-usuario/insider-risk-evaluator.git
 cd insider-risk-evaluator
 pip install -r requirements.txt
 python app.py
+
 
 
 
