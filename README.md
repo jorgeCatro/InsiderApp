@@ -6,12 +6,12 @@ This project is part of my Master's Thesis (TFM) and implements a dynamic detect
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Execution](#execution)
 - [Features](#features)
 - [Configuration](#configuration)
 - [Model Overview](#model-overview)
 - [Contributing](#contributing)
 - [License](#license)
-- [Clone and execute](#execute)
 
 ## Installation
 
@@ -43,11 +43,20 @@ To get started with this project, follow these steps:
 
 ## Usage
 
+
 Once the setup is complete, you can run the application with the following command:
 
 ```bash
 python python InsiderApp.py
 
-## Execute
+
+
+## Execution
+
+git clone https://github.com/tu-usuario/insider-risk-evaluator.git
+cd insider-risk-evaluator
+pip install -r requirements.txt
+python app.py
+
 
 
