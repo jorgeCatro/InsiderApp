@@ -52,9 +52,11 @@ python python InsiderApp.py
 ```
 
 # Execution
+```bash
 git clone https://github.com/tu-usuario/insider-risk-evaluator.git
 cd InsiderApp
 python App_insider.py
+```
 
 
 
